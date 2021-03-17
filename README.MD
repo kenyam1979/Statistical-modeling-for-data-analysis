@@ -1,6 +1,6 @@
-# OVerview
+# Overview
 
-Codes here are exercise for Statistical modeling for data analysis (データ解析のための統計モデリング入門).
+Codes here are exercise for a book "Statistical modeling for data analysis (データ解析のための統計モデリング入門)".
 
 # Reference book
 https://www.iwanami.co.jp/book/b257893.html

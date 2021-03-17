@@ -24,3 +24,6 @@ fit.stan <- stan(
 print(fit.stan)
 plot(fit.stan)
 pairs(fit.stan, pars=c('beta1', 'beta2'))
+
+## Reference
+## https://fisproject.jp/2015/06/glm-stan/
